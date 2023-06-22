@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: testing-master-jenkins
-  title: Testing-master-jenkins
+  name:  Jenkins-Testing-master
+  title: Jenkins-Testing-master
   tags:
     - wg-jenkins-job-tag
   description: |
