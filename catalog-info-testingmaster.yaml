@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-sample-service
-  description: Sample React web app
+  name: watchguard-jenkins-pipeline 
+  description: Sample Watchguard Jenkins pipline 
   labels:
     system: web-apps
   tags:
-    - javascript
-    - react
+    - pipeline
+    - ci/cd
   links:
     - url: https://github.com/briandesousa/backstage-sample-service
       title: Backstage Sample Service GitHub
@@ -25,4 +25,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: briandesousa
+  owner: skumar
