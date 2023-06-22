@@ -24,5 +24,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: WG-LIFECYCLE
   owner: skumar
