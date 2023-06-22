@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: watchguardjenkinspipelinecicd
+  name: watchguardcicd
   description: Sample Watchguard Jenkins pipline 
   labels:
     system: web-apps
