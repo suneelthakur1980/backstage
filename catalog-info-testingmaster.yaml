@@ -7,7 +7,7 @@ metadata:
     system: web-apps
   tags:
     - pipeline
-    - ci/cd
+    - cicd
   links:
     - url: https://github.com/briandesousa/backstage-sample-service
       title: Backstage Sample Service GitHub
