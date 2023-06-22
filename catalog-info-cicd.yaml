@@ -4,7 +4,7 @@ metadata:
   name: testing-master-jenkins
   title: Testing-master-jenkins
   tags:
-    - test
+    - wg-jenkins-job-tag
   description: |
     This is sample CI/CD jobs
   annotations:
@@ -20,8 +20,8 @@ metadata:
     label2/label1: test-label3
     label2/label2: test-label4 
 spec:
-  type: service
-  owner: dtuite
-  lifecycle: experimental
+  type: jenkins job
+  owner: skumar
+  lifecycle: watchguard EOL policy
   providesApis:
     - sample-service
